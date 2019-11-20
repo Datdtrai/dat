@@ -8,6 +8,6 @@ namespace Demo
 {
     class Class1
     {
-        public Class1(){};
+        public Class1(){Console.Write("Vu");};
     }
 }
